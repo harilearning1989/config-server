@@ -13,3 +13,5 @@ eureka:
     
 hello:
   message: Service Two Profile Two
+config:
+  server: config-server
