@@ -11,3 +11,5 @@ eureka:
   instance:
     localhost
     
+hello:
+  message: Service Two Profile Two
