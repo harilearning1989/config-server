@@ -15,3 +15,8 @@ hello:
   message: Service Two Profile Two
 config:
   server: config-server
+  
+jwt:
+  secret: secretkey
+  token:
+    validity: 980000
