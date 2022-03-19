@@ -20,3 +20,5 @@ jwt:
   secret: secretkey
   token:
     validity: 980000
+gateway:
+  service: gateway
